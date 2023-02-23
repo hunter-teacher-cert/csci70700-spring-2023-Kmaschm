@@ -2,7 +2,7 @@
 - https://replit.com/@Kmaschm/FlaskHW1 (view my source code)
 - https://flaskhw1.kmaschm.repl.co/ (view site)
 
-* Flash Homework 2 links
+* Flask Homework 2 links
 - https://replit.com/@Kmaschm/FlaskHW2 (view my source code)
 - https://flaskhw2.kmaschm.repl.co/ (view site)
 
