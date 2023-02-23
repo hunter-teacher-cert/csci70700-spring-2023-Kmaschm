@@ -24,5 +24,6 @@ Ex:  A is the first letter (index 0), so it becomes M.  E is the 5th letter (ind
 
 I then do the reverse to decrypt the message:  find where the letter in our to-be-decrypted message is in the aphabet, take that index and find the letter at that location in the key. Ex using same samplekey:  I is the 10th letter (index 9) of the alphabet, so we decrypt it as S, the 10th letter (index 9) in the key.  
 
+Note: My code generates a new key to encrypt and decrypt with each time.  
 
 
